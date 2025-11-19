@@ -1,4 +1,5 @@
 # T-Shirt - Zero Waste Design
+# Remera - Diseño de Residuo Cero.
 ## Zero Waste Blender Tools
 
 Conjunto de addons desarrollados para crear, coser, rellenar, doblar y exportar patrones de prendas de diseño de residuo cero dentro de Blender 3.6.
