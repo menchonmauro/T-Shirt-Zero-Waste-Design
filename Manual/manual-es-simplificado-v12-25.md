@@ -206,3 +206,4 @@
    **~/Desktop/exports/patrones/**
    (o en la ruta definida por el usuario)
   5. Abrir el archivo con [Inkscape](https://inkscape.org/release/inkscape-1.4.2/windows/)
+
