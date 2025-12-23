@@ -7,7 +7,7 @@ Conjunto de addons desarrollados para crear, coser, rellenar, doblar y exportar 
 Diseño de remera de diseño de residuo cero (Zero Waste Design) basado en el trabajo del Make/Use de Holly McQuillian y Timo Rissanen, evolución del patrón de Lindqvist, R.
 
 > [!WARNING]
-> En desarrollo, algunas carpetas, archivos o funciones, pueden no estar en el repositorio o si est÷am, pueden no funcionar como se espera.
+> En desarrollo, algunas carpetas, archivos o funciones, pueden no estar en el repositorio o si están, pueden no funcionar como se espera.
 
 
 ## Addons incluidos
