@@ -72,10 +72,10 @@
     - **Shift + clic** en el primer vértice
     - **Ctrl + clic** en el último vértice
 
-  > [!NOTE]
-  > Para conocer la cantidad de vértices seleccionados:
-  > activar **Sobreimpresos (Overlays) > Estadísticas**.
-  > La cantidad de vértices seleccionados en ambas series debe ser la misma.
+> [!NOTE]
+> Para conocer la cantidad de vértices seleccionados:
+> activar **Sobreimpresos (Overlays) > Estadísticas**.
+> La cantidad de vértices seleccionados en ambas series debe ser la misma.
 
 - Con los bordes seleccionados, presionar **"N"** para abrir el panel lateral
 - Buscar el complemento **"Coser"**, presionar **"Coser"** y luego **"Aceptar"**
@@ -88,14 +88,14 @@
 - Seleccionar el borde ubicado debajo de la manga
 - Seleccionar luego el borde desde el centro del patrón hacia la manga, respetando la cantidad de vértices
 
-  > [!NOTE]
-  > Este tipo de costura es invertida.
-  > Con los bordes seleccionados:
-  > - Presionar **"N"**
-  > - Abrir el complemento **"Coser"**
-  > - Presionar **"Coser"**
-  > - Activar **"Invertir serie A"**
-  > - Presionar **"Aceptar"**
+> [!NOTE]
+> Este tipo de costura es invertida.
+> Con los bordes seleccionados:
+> - Presionar **"N"**
+> - Abrir el complemento **"Coser"**
+> - Presionar **"Coser"**
+> - Activar **"Invertir serie A"**
+> - Presionar **"Aceptar"**
 
 ---
 
@@ -126,9 +126,9 @@
 - Ajustar **"Ancho (Índice)"**, **"Largo (Índice)"** y **"Margen (Índice)"**
 - Presionar **"Aplicar configuración de pliegue"** para visualizar los cambios
 
-  > [!NOTE]
-  > Cada índice representa una costura marcada.
-  > Si existen 5 costuras, habrá 5 índices (0 a 4) asignados automáticamente.
+> [!NOTE]
+> Cada índice representa una costura marcada.
+> Si existen 5 costuras, habrá 5 índices (0 a 4) asignados automáticamente.
 
 - Luego de configurar todos los índices:
   - Ir a la pestaña **Modificadores**
@@ -150,19 +150,19 @@
   - Densidad areal (GSM):
     - **0,067 / 1,0545 = 0,06354 kg/m²**
 
-  > [!NOTE]
-  > Conociendo la densidad areal (GSM) se puede calcular o verificar
-  > la masa total de la prenda:
-  > **Área × GSM = masa total**
+> [!NOTE]
+> Conociendo la densidad areal (GSM) se puede calcular o verificar
+> la masa total de la prenda:
+> **Área × GSM = masa total**
 
   - Consultar la cantidad de vértices en **Sobreimpresos > Estadísticas**
   - Masa de vértices:
     - **masa total / cantidad de vértices**
     - Ejemplo: **0,067 / 24443 = 2,7410710632901E-06 ≈ 0.000002741**
 
-  > [!IMPORTANT]
-  > Siempre calcular la masa de vértices.
-  > Se pueden desarrollar complementos para automatizar estos cálculos.
+> [!IMPORTANT]
+> Siempre calcular la masa de vértices.
+> Se pueden desarrollar complementos para automatizar estos cálculos.
 
   - Ingresar el valor en **Ropa > Masa de vértices**
   - Definir los siguientes parámetros:
@@ -206,4 +206,5 @@
    **~/Desktop/exports/patrones/**
    (o en la ruta definida por el usuario)
   5. Abrir el archivo con [Inkscape](https://inkscape.org/release/inkscape-1.4.2/windows/)
+
 
